@@ -12,9 +12,9 @@ title                    : "Rajveer Jat"
 title_separator          : "-"
 name                     : &name "Rajveer Jat"
 description              : &description "personal description"
-url                      : https://github.com/thetherajveer/rj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "thetherajveer/rj.github.io"
+url                      : https://thetherajveer.github.io/rj.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog" #https://dadasmash.github.io/dagong.github.io/
+repository               : "thetherajveer/rj.github.io"  
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
